@@ -1,0 +1,5 @@
+A?+.
+#A: pushes the letter A
+#?: takes the input as chars
+#+: adds input and A
+#.: outputs sum as integer
