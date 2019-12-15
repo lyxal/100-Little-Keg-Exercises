@@ -1,4 +1,4 @@
-# 100-Little-Keg-Excercises
+# 100 Little Keg Exercises
 _A way to learn Keg through practical exercises_
 
 Uninteractive tutorials are hard. So is trying to read the raw source code for a language. So why not learn Keg through completing 100 little exercises designed to improve and teach the features of the language?
