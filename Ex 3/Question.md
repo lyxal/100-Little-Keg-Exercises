@@ -10,9 +10,9 @@ Do you know that Keg can tell the time by writing just a one-liner? Throughout t
 
 I want you to write a program that:
 
-- Takes a single letters as input
-- Minus the ascii code of the letter by 64
-  - If the ascii code < 12 (i.e. character before `L`):
+- Takes a single letter as input
+- Subtracts 64 from the ascii code of the letter, and
+  - If the the value < 12 (i.e. character before `L`):
     -  Say `Good Morning!`
   -  Otherwise, if the ascii code = 12 (i.e. character is `L`):
     -  Say `Hello!`
