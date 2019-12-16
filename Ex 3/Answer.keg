@@ -1,1 +1,8 @@
-?88*-:34*<[_Good Morning\!|:34*=[Hello\!|_Good Evening\!
+?88*-:34*<[_Good Morning\!|:34*=[_Hello\!|_Good Evening\!
+#?: Take a character from input
+#88*-: Subtract 64 from it
+#:: Duplicate the top-of-stack item
+#34*<: Is the item less than 12?
+#[_Good Morning\! If so, discard the original item and push "Good Morning!"
+# |:34*=[_Hello\!| Otherwise, if the item = 12, discard & push "Hello!"
+# _Good Evening\! Otherwise, push "Good Evening!"
