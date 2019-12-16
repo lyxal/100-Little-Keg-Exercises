@@ -8,3 +8,4 @@
 
 #Alternate solutions might include
 #??=[emaS,,,,|tnereffiD,,,,,,,,,] #Note that the words are reversed as otherwise they will be printed in reverse
+#, prints the top of the stack as a character and discards the item
