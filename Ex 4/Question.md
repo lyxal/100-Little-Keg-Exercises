@@ -11,9 +11,10 @@ The ability to repeat chunks of code within a program is an important part of an
 I want you to write a program that:
 
 - Starts at the number 0, and:
-- For each number from 0 to 100:
+- For each number from 0 to 100 (inclusive):
 -   If the number is even, print the letter `E`
 -   Otherwise: print the number
+- Each number/letter is to be seperateed by a space
 
 You will need to know these things:
 
