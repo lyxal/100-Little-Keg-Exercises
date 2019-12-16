@@ -1,0 +1,9 @@
+0(d1+|:2%0=[E,|:.] ,1+)
+0			#Push what will be the loop counter onto the stack
+ (d1+|			#Repeat 101 times (the ascii value of d is 100):
+      :2%		#	Calculate the loop counter modulo 2
+         0=		#	See if the result of the above calculation is zero
+           [E,|		#	If it is zero, the loop counter must be even, so print the letter E
+               :.]	#	Otherwise, duplicate and print the number
+                   ,	#	Print a space for neat formatting
+                    1+)	#	Increment the loop counter and close the loop 
