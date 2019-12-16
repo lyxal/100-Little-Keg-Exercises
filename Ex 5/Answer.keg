@@ -1,0 +1,18 @@
+(
+|(
+|\*)
+)
+#(: Open the first for loop
+#|: Use the newline (ascii value of 10) as the loop count
+#(: Open the second for loop
+#|: Use the newline as the loop count
+#\*: Push a literal "*" onto the stack
+#): Close loop and push a newline
+#): Close the first loop and implicitly print
+
+#Alternate solution using -in flag
+
+(\
+|(\
+|\*)\
+)
