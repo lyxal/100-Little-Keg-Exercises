@@ -20,3 +20,7 @@ Each exercise has a question file and an answer file. It is reccomended that you
 **Question 3**: [Problem](https://github.com/JonoCode9374/100-Little-Keg-Exercises/blob/master/Ex%203/Question.md)/[Answer](https://github.com/JonoCode9374/100-Little-Keg-Exercises/blob/master/Ex%203/Answer.keg)
 
 **Question 4**: [Problem](https://github.com/JonoCode9374/100-Little-Keg-Exercises/blob/master/Ex%204/Question.md)/[Answer](https://github.com/JonoCode9374/100-Little-Keg-Exercises/blob/master/Ex%204/Answer.keg)
+
+**Question 5**: [Problem](https://github.com/JonoCode9374/100-Little-Keg-Exercises/blob/master/Ex%205/Question.md)/[Answer](https://github.com/JonoCode9374/100-Little-Keg-Exercises/blob/master/Ex%205/Answer.keg)
+
+**Question 6**: [Problem](https://github.com/JonoCode9374/100-Little-Keg-Exercises/blob/master/Ex%206/Question.md)/[Answer](https://github.com/JonoCode9374/100-Little-Keg-Exercises/blob/master/Ex%206/Answer.keg)
