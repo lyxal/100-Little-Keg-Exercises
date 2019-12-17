@@ -1,1 +1,7 @@
 0{¿:0>|+}_.
+#Rather than have a line by line explanation, I'll explain what this does in a more paragraphical style. 
+#First of all, we start off by pushing a single 0 onto the stack. This will keep track of the sum of the inputs and will be printed at the end of execution.
+#We then enter our while loop. As you can see, the condition is ¿:0< which can be read as: take nice input from the user, duplicate it so that the input value can be kept for adding to the total and see if it is bigger than 0.
+#If the given input is bigger than 0, it will be added to the sum and the loop will continue.
+#Otherwise, the loop will exit. Once the loop exits, the stack will look something like this [sum, input less than or equal to 0]
+#This is why I mentioned the _ command in the problem statement. It is used to discard that annoying input so that the sum can be printed. 
