@@ -18,7 +18,10 @@ You will need to know these things:
 
 - A `while` loop is written in the form of `{condition|code}`, where `condition` is a Keg expression to evaluate each iteration to determine whether or not `code` will be executed. 
 - The `¿` command takes the next line of input and tries to evaluate it as first a decimal (float), an integer, a list and finally a string. 
-- If you happen to have any extra data items on your stack at the end of execution, you can use `_` to remove items. In other words, `_` discards the top of the stack. 
+- If you happen to have any extra data items on your stack at the end of execution, you can use `_` to remove items. In other words, `_` discards the top of the stack.
+- The while loop condition will be evaluated as normal Keg code. The top of the stack after such evaluation will be used as the determiner of whether or not the loop will continue. If the top of the stack is non-zero (truthy), control flow stays within the loop. Otherwise, the loop stops. 
+- Each number for input should be taken on a newline. [Here](https://tio.run/##y05N/w8EplxGXCZcllwGAA
+) is an example of how the input should be given it using TIO. 
 
 ## Post-Test Loops
 
