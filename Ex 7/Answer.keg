@@ -1,0 +1,13 @@
+{¿:0>|:&(|&:.;& ,)
+,&_}
+
+{¿:0>|				#While the user-input is a positive integer
+      :&			#	Store the input into the register after duplicating it. This is because the register will be used for keeping track of the current integer, while the remaining copy will be the loop count
+        (|			#	Top of stack times: (Note that the top of stack is still the user input)
+          &:.		#		Print the value in the register
+             ;		#		Decrement the t.o.s
+              & ,	#		Put the value back into the register and print a space
+                 )	#	Close the loop
+,					#	Print a newline
+ &_					#	Push the register and pop the item as to empty the register for next iteration
+   }				#Close the while loop
