@@ -16,7 +16,7 @@ I want you to write a program that:
 -    Prints a newline
 - Numbers are to be seperated by spaces
 
-An example session of use would look like so: _Note that user input is shown as `>>>`
+An example session of use would look like so: _Note that user input is shown as `>>>`. Also, this is all from one run of the program, not multiple runs_
 
 <!-- Wrapped in three backticks due to GitHub being a silly-billy and not rendering properly when using tab-formatted code blocks -->
 <!-- Enjoy the rest your day! :p -->
