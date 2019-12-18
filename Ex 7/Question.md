@@ -55,7 +55,7 @@ _Assume the stack is already set to_ `[45, 2, l, 10]`
 From this example, it can be seen that the register is kind of a safe-haven for stack items
 
 ### Example 2
-_Assume the input provided is 3
+_Assume the input provided is 3_
 
     0&(¿|&:.1+&)
     0&  #Register: 0, Stack: []
