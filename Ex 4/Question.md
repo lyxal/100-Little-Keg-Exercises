@@ -14,7 +14,7 @@ I want you to write a program that:
 - For each number from 0 to 100 (inclusive):
 -   If the number is even, print the letter `E`
 -   Otherwise: print the number
-- Each number/letter is to be seperateed by a space
+- Each number/letter is to be separated by a space
 
 You will need to know these things:
 
