@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 # Challenge Name
-<Type a short description here>. Throughout this exercise you will learn about:
+_Type a short description here_. Throughout this exercise you will learn about:
 
 - Aspect learnt about
 - Another aspect learnt about
@@ -26,4 +26,4 @@ You will need to know these things:
 
 ## Solution
 
-<Place a link to an external copy of the solution here as to not spoil anything>
+_Place a link to an external copy of the solution here as to not spoil anything_
