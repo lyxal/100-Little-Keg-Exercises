@@ -30,6 +30,8 @@ Output:
 
 	!ydwoH
 
+[Input as formatted on TIO](https://tio.run/##y05N/w8EHvnlKZWKXEFchgA "Keg – Try It Online")
+
 ---
 
 | Input | Instruction | Times |
@@ -39,6 +41,8 @@ Output:
 Output:
 
 	Hello
+
+[Input as formatted on TIO](https://tio.run/##y05N/w8EqTk5@R5cOVyGAA "Keg – Try It Online")
 
 ---
 
@@ -51,6 +55,8 @@ Output:
 
 	Shifted
 
+[Input as formatted on TIO](https://tio.run/##y05N/w8EJakpwRmZaVw5XCYA "Keg – Try It Online")
+
 ---
 
 | Input | Instruction | Times |
@@ -61,6 +67,8 @@ Output:
 
 	Amazing, isn't it?
 
+[Try it online!](https://tio.run/##y05N/w8ExXnqJQqZJfaOuYlVmXnpOgqZXEVcFgA "Keg – Try It Online")
+
 ---
 
 You will need to know these things:
@@ -68,5 +76,6 @@ You will need to know these things:
 - You will most likely need a loop at the end of your program to print the contents of the stack as they should appear. In other words, you'll most likely need to append `(,)` if you don't reverse the first input after taking it.
 - Touching on the above point, the `?` takes a line of input reversed, meaning you may need to reverse the input using `^`.
 - A little recap: `¿` takes input as an integer
+- All instructions are case sensitive. In other words only an input of `R` should reverse the stack, not `r`.
 
 
