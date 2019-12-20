@@ -27,11 +27,13 @@ Each exercise has a question file and an answer file. It is reccomended that you
 
 **Question 7**: [Problem](https://github.com/JonoCode9374/100-Little-Keg-Exercises/blob/master/Ex%207/Question.md)/[Answer](https://github.com/JonoCode9374/100-Little-Keg-Exercises/blob/master/Ex%207/Answer.keg)
 
+**Question 8**: [Problem](https://github.com/JonoCode9374/100-Little-Keg-Exercises/blob/master/Ex%208/Question.md)/[Answer](https://github.com/JonoCode9374/100-Little-Keg-Exercises/blob/master/Ex%208/Answer.keg)
+
 ## Contributing
 
 Feel free to suggest problems to solve.
 
 These people have contributed thusfar:
 
-- [@JonoCode9374](https://github.com/JonoCode9374) (Problems 1, 2, 4, 5, 6, 7)
+- [@JonoCode9374](https://github.com/JonoCode9374) (Problems 1, 2, 4, 5, 6, 7, 8)
 - [@A-ee](https://github.com/A-ee) (Problem 3)
