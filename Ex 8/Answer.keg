@@ -1,0 +1,20 @@
+?^?:R=[_(¿|^)|:l=[_(¿|')|_(¿|")]]
+#?^			| Take the input of characters and reverse it (refer to the specs for why this happens)
+#?:			| Take input which will be used as the instruction and duplicated to start a series of tests
+#R=			| First, compare the instruction to 'R'
+#[			| If the instruction is 'R'
+#_(¿|^)		| 	Pop the instruction and then, take integer input and reverse the stack that many times
+#|:l=[		| Otherwise, test to see if the instruction is 'l'
+#_(¿|')		|	If it is indeed 'l', left shift the stack "integer input" many times
+#|			| Otherwise, the instruction must be 'r', so do:
+#_(¿|")		| 	Shift the stack "integer input" many times
+#]]			| Close the two if-statements and then implicitly print
+
+#Alternate solutions include:
+??:R=[_(¿|^)|:l=[_(¿|')|_(¿|")]](,)
+
+#The above was my first solution when I was creating the answer to this question. It took me a bit to realise that I needed the (,) at the end there.
+#Anyhow, it does the same as the answer but reversing the stack in a more painful way.
+
+??:R=[_(¿|^)|:l=[_(¿|')|_(¿|")]]^
+#This shows that ^ can be substituted for (,) sometimes if implicit output is already being used.
