@@ -5,6 +5,22 @@ Uninteractive tutorials are hard. So is trying to read the raw source code for a
 
 Each exercise has a question file and an answer file. It is reccomended that you don't read the answer file until you have solved the question yourself.
 
+## Assumed Knowledge
+
+These things are assumed:
+
+1. That you know how to program/that you are able to practice what I call "algorithmtic thinking"
+
+When I say this, I mean that you can fluently use other programming languages, whether esoteric or practical. In other words, knowing something like Python, 05AB1E, W or Java will be helpful. Knowing languages like Deadfish, HQ9+, etc, _probably_ won't be very helpful.
+
+2. That you have some sort of knowledge about what stacks are.
+
+If y'all need a little explanation about what and how stacks work, I suggest you read about how they work, as the main method of data interaction in Keg is using a main stack. Some information can be found [here](https://esolangs.org/wiki/Stack) on Esolangs.
+
+These things aren't assumed:
+
+- That you've had any interaction with Keg. In other words, you can be completely new to Keg, or you can be a Keg master (like [@A-ee](https://github.com/A-ee), who is somehow always able to find ways to golf my Keg programs).
+
 ## Helpful Resources
 
 * [Online interpreter](https://tio.run/#keg) _Kindly hosted on Try It Online_
