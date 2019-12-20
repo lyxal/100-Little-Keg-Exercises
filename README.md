@@ -26,7 +26,7 @@ These things aren't assumed:
 * [Online interpreter](https://tio.run/#keg) _Kindly hosted on Try It Online_
 * [Esolangs page](https://esolangs.org/wiki/Keg)
 * [Keg chatroom](https://chat.stackexchange.com/rooms/97278/the-sixth-barrel)
-* [A more friendly way to view this repo](https://a-ee.github.io). This is kindly maintained by [@A-ee](https://github.com/A-ee). It provides a more website like way to navigate exercises rather than having to navigate through folders.
+* [A more friendly way to view this repo](https://a-ee.github.io). This is kindly maintained by [@A-ee](https://github.com/A-ee). It provides a more website-like way to navigate exercises rather than having to navigate through folders.
 
 ## Problem Index
 
