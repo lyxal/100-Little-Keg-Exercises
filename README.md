@@ -46,6 +46,8 @@ These things aren't assumed:
 
 **Question 8**: [Problem](https://github.com/JonoCode9374/100-Little-Keg-Exercises/blob/master/Ex%208/Question.md)/[Answer](https://github.com/JonoCode9374/100-Little-Keg-Exercises/blob/master/Ex%208/Answer.keg)
 
+**Question 9**: [Problem](https://github.com/JonoCode9374/100-Little-Keg-Exercises/blob/master/Ex%209/Question.md)/[Answer](https://github.com/JonoCode9374/100-Little-Keg-Exercises/blob/master/Ex%209/Answer.keg)
+
 ## Contributing
 
 Feel free to suggest problems to solve.
