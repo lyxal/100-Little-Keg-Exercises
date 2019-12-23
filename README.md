@@ -54,5 +54,5 @@ Feel free to suggest problems to solve.
 
 These people have contributed thusfar:
 
-- [@JonoCode9374](https://github.com/JonoCode9374) (Problems 1, 2, 4, 5, 6, 7, 8)
+- [@JonoCode9374](https://github.com/JonoCode9374) (Problems 1, 2, 4, 5, 6, 7, 8, 9)
 - [@A-ee](https://github.com/A-ee) (Problem 3)
