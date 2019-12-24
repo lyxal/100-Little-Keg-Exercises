@@ -36,7 +36,7 @@ Output:
 
 | Input | Instruction | Times |
 |:----------|:----------|:----------|
-|elloH | l    | 1    |
+|elloH | r    | 1    |
 
 Output:
 
@@ -48,7 +48,7 @@ Output:
 
 | Input | Instruction | Times |
 |:----------|:----------|:----------|
-|tedShif | l    | 4    |
+|tedShif | l    | 3    |
 
 
 Output:
