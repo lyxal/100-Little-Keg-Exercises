@@ -13,6 +13,7 @@ I want you to write a _function_ called `f` that:
 - Takes 5 numeric parameters, and
 - Returns the average of the numbers
 
+Please note that at the moment loops within functions don't work. 
 ## Functions in Keg
 
 Obviously, in order to complete this exercise, you will need to know about how to write a function. 
