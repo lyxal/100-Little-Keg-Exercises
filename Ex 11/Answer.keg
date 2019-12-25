@@ -1,0 +1,3 @@
+@f 5|(+)5/ƒ
+# It is important to note that when a function is finished, it spits all of the contents of
+# it's stack back onto the main stack.
